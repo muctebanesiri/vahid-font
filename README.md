@@ -55,7 +55,7 @@ Vahid Font is licensed under the SIL Open Font License (OFL). You are free to us
 
 - **Dedication**: This font is dedicated and named after my friend Vahid.
 - **Inspiration**: Vahid font is based on ArefRuqaa font.
-- **Tools**: Created using [FontForge](https://fontforge.org/)
+- **Tools**: Created and customized using [FontForge](https://fontforge.org/)
 
 ## Contact
 
