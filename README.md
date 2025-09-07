@@ -35,16 +35,17 @@ For a live demo, check out the [Vahid Font Demo Page](https://your-username.gith
     - **Linux**: Copy the font file to `~/.fonts/` or `/usr/share/fonts/` and run `fc-cache -fv` to update the font cache.
 2. **Use in Applications**:
     
-    - Select "Vahid" in applications like Microsoft Word, Adobe Photoshop, or any design software that supports custom fonts.
+    - Select "Vahid" in any application that supports custom fonts.
+    
+![preview](https://raw.githubusercontent.com/muctebanesiri/vahid-font/refs/heads/main/assets/pick.png)
 
 
 ## Building and Contributing
 
 If you want to contribute to Vahid Font or modify it:
 
-1. **Font Source Files**: The source files (if available) are in the `src/` directory. Use tools like FontForge to edit the font.
-2. **Issues and Pull Requests**: Report bugs or suggest features via [Issues](https://github.com/your-username/your-repo/issues). Contributions are welcome!
-3. **Build Instructions**: (Add if you provide source files, e.g., "Use FontForge to open `VahidFont.sfd` and generate the `.otf` file.")
+1. **Font Source Files**: The source files are in the `fonts/` directory. Use tools like FontForge to edit the font.
+2. **Issues and Pull Requests**: Report bugs or suggest features via [Issues](https://github.com/muctebanesiri/vahid-font/issues). Contributions are welcome!
 
 ## License
 
@@ -52,15 +53,11 @@ Vahid Font is licensed under the SIL Open Font License (OFL). You are free to us
 
 ## Acknowledgments
 
-- **Inspiration**: Vahid font is based on ArefRuqaa font.
 - **Dedication**: This font is dedicated and named after my friend Vahid.
+- **Inspiration**: Vahid font is based on ArefRuqaa font.
 - **Tools**: Created using [FontForge](https://fontforge.org/)
 
 ## Contact
 
-For questions or feedback, open an issue or contact me at [your-email@example.com](mailto:your-email@example.com).
-
----
-
-_Enjoy using Vahid Font in your multilingual projects!_
+For questions or feedback, open an issue or contact me at [nuctebanesiri[at]gmail[dot]com](mailto:muctebanesiri@gmail.com).
 
