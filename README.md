@@ -1,4 +1,4 @@
-![[[Screenshot.png](https://github.com/muctebanesiri/vahid-font/blob/main/Screenshot.png)]]
+![[https://github.com/muctebanesiri/vahid-font/blob/main/Screenshot.png]]
 
 Vahid Font is a multilingual typeface for my own needs with support for wide range of scripts, including **English**, **Turkish**, **Ottoman**, **Azerbaijani**, **Persian**, **Arabic**, and other **Latin** and **Arabic-based scripts**. based on ArefRuqaa, Vahid Font includes extensive modifications to enhance support for Turkish, Azerbaijani, and specially Ottoman characters
 
