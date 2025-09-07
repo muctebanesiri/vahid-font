@@ -1,4 +1,4 @@
-![preview](https://raw.githubusercontent.com/muctebanesiri/vahid-font/refs/heads/main/assets/Screenshot.png)
+Hugo![preview](https://raw.githubusercontent.com/muctebanesiri/vahid-font/refs/heads/main/assets/Screenshot.png)
 
 Vahid Font is a multilingual typeface designed for my daily personal use, supporting a wide range of scripts, including English, Turkish, Ottoman, Azerbaijani, Persian, Arabic, and other Latin and Arabic-based scripts. Based on ArefRuqaa, Vahid Font includes extensive modifications to enhance support for Turkish, Azerbaijani, and Ottoman characters.
 
@@ -59,5 +59,5 @@ Vahid Font is licensed under the SIL Open Font License (OFL). You are free to us
 
 ## Contact
 
-For questions or feedback, open an issue or contact me at [nuctebanesiri[at]gmail[dot]com](mailto:muctebanesiri@gmail.com).
+For questions or feedback, open an issue or contact me at [muctebanesiri[at]gmail[dot]com](mailto:muctebanesiri@gmail.com).
 
