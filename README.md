@@ -1,6 +1,6 @@
 ![preview](https://raw.githubusercontent.com/muctebanesiri/vahid-font/refs/heads/main/assets/Screenshot.png)
 
-Vahid Font is a multilingual typeface for my daily personal use, supporting most Latin and Arabic based scripts, including English, Turkish, Ottoman, Azerbaijani(both north and south), Persian, Arabic. Based on ArefRuqaa, Vahid Font includes extensive modifications to enhance support for Turkish, Azerbaijani, and specially Ottoman characters.
+Vahid Font is a multilingual typeface for my daily personal use, supporting most Latin and Arabic based scripts, including English, Turkish, Ottoman, Azerbaijani(both north and south), Persian and Arabic. Based on ArefRuqaa, Vahid Font includes extensive modifications to enhance support for Turkish, Azerbaijani, and specially Ottoman characters.
 
 ## Features
 
