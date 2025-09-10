@@ -13,7 +13,7 @@ Vahid Font is a multilingual typeface for my daily personal use, supporting most
 
 Below is a sample of how Vahid Font renders various scripts:
 
-![preview](https://raw.githubusercontent.com/muctebanesiri/vahid/refs/heads/main/assets/az.jpg)
+![preview](https://raw.githubusercontent.com/muctebanesiri/vahid/refs/heads/main/assets/az.png)
 
 ![preview](https://raw.githubusercontent.com/muctebanesiri/vahid/refs/heads/main/assets/ott.jpg)
 
