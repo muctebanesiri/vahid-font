@@ -15,15 +15,15 @@ Below is a sample of how Vahid Font renders various scripts:
 
 ![preview](https://raw.githubusercontent.com/muctebanesiri/vahid/refs/heads/main/assets/az.png)
 
-![preview](https://raw.githubusercontent.com/muctebanesiri/vahid/refs/heads/main/assets/ott.jpg)
+![preview](https://raw.githubusercontent.com/muctebanesiri/vahid/refs/heads/main/assets/ott.png)
 
-![preview](https://raw.githubusercontent.com/muctebanesiri/vahid/refs/heads/main/assets/tr.jpg)
+![preview](https://raw.githubusercontent.com/muctebanesiri/vahid/refs/heads/main/assets/tr.png)
 
-![preview](https://raw.githubusercontent.com/muctebanesiri/vahid/refs/heads/main/assets/eng.jpg)
+![preview](https://raw.githubusercontent.com/muctebanesiri/vahid/refs/heads/main/assets/eng.png)
 
-![preview](https://raw.githubusercontent.com/muctebanesiri/vahid/refs/heads/main/assets/fa.jpg)
+![preview](https://raw.githubusercontent.com/muctebanesiri/vahid/refs/heads/main/assets/fa.png)
 
-![preview](https://raw.githubusercontent.com/muctebanesiri/vahid/refs/heads/main/assets/ar.jpg)
+![preview](https://raw.githubusercontent.com/muctebanesiri/vahid/refs/heads/main/assets/ar.png)
 
 
 For a live demo, check out the [Vahid Font Demo Page](https://your-username.github.io/your-repo/) hosted on GitHub Pages.
