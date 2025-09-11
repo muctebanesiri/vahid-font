@@ -15,11 +15,11 @@ Below is a sample of how Vahid Font renders various scripts:
 
 ![preview](https://raw.githubusercontent.com/muctebanesiri/vahid/refs/heads/main/assets/az.png)
 
-![preview](https://raw.githubusercontent.com/muctebanesiri/vahid/refs/heads/main/assets/ott.png)
+![preview](https://raw.githubusercontent.com/muctebanesiri/vahid/refs/heads/main/assets/ot.png)
 
 ![preview](https://raw.githubusercontent.com/muctebanesiri/vahid/refs/heads/main/assets/tr.png)
 
-![preview](https://raw.githubusercontent.com/muctebanesiri/vahid/refs/heads/main/assets/eng.png)
+![preview](https://raw.githubusercontent.com/muctebanesiri/vahid/refs/heads/main/assets/en.png)
 
 ![preview](https://raw.githubusercontent.com/muctebanesiri/vahid/refs/heads/main/assets/fa.png)
 
